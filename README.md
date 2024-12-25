@@ -114,14 +114,28 @@
 <p class="graf graf--p graf--startsWithDoubleQuote">&ldquo;Octopus&rdquo; was not the correct answer, but I was sure it was something related to the password. After researching with chatgpt for a long time, knowing that the word starts with &ldquo;oct&rdquo;&nbsp;,it gave me the idea of &ldquo;Octopodes&rdquo;, which is the true answer!!!</p>
 <p class="graf graf--p">🎁🎁🎁</p>
 <figure class="graf graf--figure"><img class="graf-image" src="https://cdn-images-1.medium.com/max/1600/0*eaaP-EJ51Cn6p4ER" alt="" width="586" height="278" data-image-id="0*eaaP-EJ51Cn6p4ER" data-width="1600" data-height="760" /></figure>
-<p class="graf graf--p">We finally found it! Congratulations!</p>
-<p class="graf graf--p">As this marks the end of our journey for this article, see you in the upcoming ones!</p>
-<p class="graf graf--p">If you&rsquo;d like to see more content on this topic, support me by clapping and following. Don&rsquo;t forget to share your thoughts as well! Thank you!!!</p>
-<p class="graf graf--p graf--empty">&nbsp;</p>
-<p class="graf graf--p graf--empty">&nbsp;</p>
-<p class="graf graf--p graf--empty">&nbsp;</p>
-<p class="graf graf--p graf--empty">&nbsp;</p>
-<p class="graf graf--p graf--empty">&nbsp;</p>
+<p class="graf graf--p">🎉 <strong class="markup--strong markup--p-strong">We finally made it! Congratulations on completing the journey!</strong></p>
+<p class="graf graf--p">This marks the end of our adventure for this article, but it&rsquo;s just the beginning of many more to come. 🚀</p>
+<p class="graf graf--p">If you enjoyed this article and want to see more content like this, don&rsquo;t forget to:</p>
+<p class="graf graf--p">&bull; 👏 <strong class="markup--strong markup--p-strong">Clap</strong> (up to 50 times!) to show your support,</p>
+<p class="graf graf--p">&bull; 📰 <strong class="markup--strong markup--p-strong">Follow me</strong> for upcoming articles on AI security and ethical hacking, and</p>
+<p class="graf graf--p">&bull; 💬 <strong class="markup--strong markup--p-strong">Share your thoughts</strong> or ask questions in the comments &mdash; I&rsquo;d love to hear from you!</p>
+<p class="graf graf--p">Thank you for being part of this journey, and see you in the next one! 🌟</p>
+
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+<p class="graf graf--p">&nbsp;</p>
+
+
+
+
+
+
+
 
 
 
